@@ -39,3 +39,5 @@ The first six digits of the bank card number represent the card properties and i
 #### Space recognition
 
 The list of number box spacing is processed by Softmax, and if it is greater than the specified threshold, We determined there should be a space between two bounding boxes.
+
+Here's a small [demo video](https://drive.google.com/file/d/1NfTTzmIYM9i9jYs_TWnN1L-RBFhurp6E/view?usp=sharing) for anyone interested. 
