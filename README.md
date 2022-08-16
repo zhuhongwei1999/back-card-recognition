@@ -15,8 +15,7 @@
 
 * Provided cross-platform multi-version packages;
 * Supported space recognition between characters;
-* Collected and enhanced data from complex and multiple scenes;
-* Implemented auto error correction based on prior rule.
+* Collected and enhanced data from complex and multiple scenes.
 
 ### Key Points
 
@@ -32,9 +31,6 @@ When predicting number bounding boxes, multiple prediction frames for a single n
 
 Due to the privacy of bank cards, only 350 bank card numbers were collected and tagged in real time with limited resources, but the training data was expanded to 140,000 copies through random rotation, panning, background replacement, highlight overlay, brightness/color/blur adjustment...
 
-#### Auto Correction
-
-The first six digits of the bank card number represent the card properties and its issuing bank, so there are limited combinations of numbers. We created a dictionary from bank card numbers to their properties, and implemented auto error correction function by string matching algorithm
 
 #### Space recognition
 
