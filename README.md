@@ -29,7 +29,7 @@ When predicting number bounding boxes, multiple prediction frames for a single n
 
 #### Data Collection and Augmentation
 
-Due to the privacy of bank cards, only 350 bank card numbers were collected and tagged in real time with limited resources, but the training data was expanded to 140,000 copies through random rotation, panning, background replacement, highlight overlay, brightness/color/blur adjustment...
+Due to the privacy of bank cards, only 350 bank card numbers were collected and tagged in real time with limited resources, but the training data was expanded to 14,000 copies through random rotation, panning, background replacement, highlight overlay, brightness/color/blur adjustment...
 
 
 #### Space recognition
